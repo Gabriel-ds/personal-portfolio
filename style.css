@@ -262,7 +262,7 @@ html {
 }
 
 .btn-ver-mais:hover > i {
-  transform: translateX(2px);
+  transform: translateX(10px);
 }
 
 .btn-ver-mais > i {
@@ -270,6 +270,8 @@ html {
   transform: translateX(0);
   transition: transform 0.3s ease-out;
 }
+
+/*Ver mais*/
 
 .contato-section {
   display: flex;
